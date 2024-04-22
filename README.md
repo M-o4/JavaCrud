@@ -42,8 +42,7 @@ Les contributions à ce projet sont bienvenues. Veuillez suivre les pratiques st
 ## Support
 Pour obtenir de l'aide ou rapporter des problèmes, veuillez envoyer un email à celikmucahit04@gmail.com.
 
-## Auteur
-- Mucahit CELIK
+## Auteur Read Me
 - Chris Nassi
 - Mbarakou Maiga
 
